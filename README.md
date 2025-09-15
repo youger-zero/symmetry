@@ -1,0 +1,7 @@
+Geometry Diagram Parsing and Reasoning Based on Deep Semantic Fusion
+Abstract
+The central thesis of this paper is that an effective system for Automated Geometric Problem Solving (AGP) must integrate strong visual perception with equally advanced textual comprehension. We propose a dual-stream fusion model that incorporates a Pre-trained Language Model (PLM) into the geometric diagram parsing pipeline. At its core is a Semantic-Guided Cross-Attention (SGCA) mechanism, which leverages the global semantic intent of the problem text to guide attention toward key visual primi-tives. This yields context-enriched visual representations that serve as inputs to a Graph Neural Network (GNN), enabling relational reasoning that is not only percep-tion-driven but also context-aware. By explicitly bridging the semantic gap between text and diagrams, our approach delivers more robust and accurate predictions. To the best of our knowledge, this is the first study to introduce a semantic-guided cross-attention mechanism into geometric diagram parsing, establishing a new para-digm that effectively addresses the cross-modal semantic gap and achieves state-of-the-art performance.
+The datasets used in our study (PGDP5K and IMP-Geometry3K) are available for download. 
+Download Link:
+[Google Drive] https://drive.google.com/drive/folders/12h9dQWWxygWqkpMhNyqMb5B9lKXh4Ps4?usp=drive_link
+[Google Drive] https://drive.google.com/drive/folders/1NT4mbWvLm5SP1RVK9SOgTK3mhQqGGLYD?usp=drive_link
